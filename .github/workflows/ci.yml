@@ -17,4 +17,4 @@ jobs:
       - run: ls -la
       - run: date
       - run: cat README.md
-      - run: echo "Workflow ejecutado correctamente”
+      - run: echo "Workflow ejecutado correctamente"
