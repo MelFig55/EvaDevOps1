@@ -38,3 +38,12 @@ fix:error al greeting de nuevo usuario
 
 Estrategias de revisión
 - Al no haber trabajado con codigo mas alla de PR, unas config pequeñas al README, no hemos tenido la oportunidad de revisar detalladamente, pero ambos tenemos la experiencia anterior de haber revisado codigo antes de aceptar una PR y hacerle merge.
+
+
+
+# 02/06/26
+
+Creacion e integracion de Docker en conjunto con actions
+
+- Se comprendio la creacion de un repositorio y el como este se conecta e interactua junto con Docker, junto con esto las configuraciones dentro de este para que pueda funcionar de manera correcta teniendo en cuenta los CI/CD solicitados dentro de la rubrica, se comprendio el uso y la creacion e importancia de los mismos y el como se integran dentro de los microservicios dentro de nuestros proyectos.
+
